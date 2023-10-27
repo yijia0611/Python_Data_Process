@@ -1,0 +1,12 @@
+特殊数值描述:
+
+      a.32700：little precipitation  (小规模的降水)
+      b.32766：missing data
+      c.32744：no data
+      e.31XXX：snowfall(XXX: snow mass)
+      f.32XXX：fog and dew(XXX: mass)
+      g.30XXX：sleet (rain and snow fall)(XXX: mass)
+      h. If the elevation > 50000, the elevation value is not accurate. The appreximate value = evevation - 50000
+
+32700是气象部门处理气象资料的一个特定编码，表示该数据是小于0.1mm的微量降水。
+一般情况下，微量降水对人们生产生活没有太大影响，但对于不允许有任何水滴的特定环境（比如高标准桥梁铺设路面施工）还是有影响的。

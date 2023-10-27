@@ -1,0 +1,4 @@
+name	seq
+a1	seq11111
+a2	seqs22222
+a3	seq33333

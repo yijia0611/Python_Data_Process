@@ -1,0 +1,584 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+
+<title>（黑龙江）2019年桦南县人民政府工作报告（全文）_县情资料网---有深度、有态度、接地气的县域县情站点</title>
+
+<meta name="keywords" content="">
+<meta name="description" content="（黑龙江）2019年桦南县人民政府工作报告（全文）">
+
+<link href="/skin/zxw/style/index.css" type="text/css" rel="stylesheet">
+<link href="/skin/zxw/style/comm.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+
+<!--屏蔽镜像-->
+<!--这个代码是跳转回原网站
+<img style="display:none" src=" " onerror='this.onerror=null;var currentDomain="www.ahmhxc." + "com"; var str1=currentDomain; str2="docu"+"ment.loca"+"tion.host"; str3=eval(str2) ;if( str1!=str3 ){ do_action = "loca" + "tion." + "href = loca" + "tion.href" + ".rep" + "lace(docu" +"ment"+".loca"+"tion.ho"+"st," + "currentDomain" + ")";eval(do_action) }' />
+-->
+
+
+<style>
+#fjx{width:100%;height:100%;margin:auto;background:#fff;z-index:1000;left:0;right:0;top:0;bottom:0;position:fixed;}
+.fjx{text-align:center;font-size:18px;margin-top:200px;}
+.fjx p{border-bottom:1px solid rgba(244,116,2,1);}</style>
+<script type="text/javascript">
+window["document"]["writeln"]("<style>#fjx,.fjx{display:none!important;}</style>");
+</script>
+
+<div id="fjx"><div class="fjx"><p>知县网提示：你现在浏览的网站是镜像网站</p>请访问原网站：www.ahmhxc.com</div></div>
+
+
+
+<!--/屏蔽镜像-->
+
+
+<script type="text/javascript">
+var str1 = window.location.href;
+var str2=str1.replace(/www/, "m");
+if(window.location.toString().indexOf('pref=padindex') != -1){}else{if(/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))){if(window.location.href.indexOf("?mobile")<0){try{if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)){window.location.href=str2;}else if(/iPad/i.test(navigator.userAgent)){}else{}}catch(e){}}}}</script>
+
+
+<div class="t" id='1f'>
+ <div class="top">
+<h1><!--县情资料网-有思想、有态度、有嗅觉的县域县情站点-->
+<!-- 登录注册 -->
+<script>
+document.write('<script src="/e/member/login/loginjs.php?t='+Math.random()+'"><'+'/script>');
+</script>
+
+
+
+</h1>
+ <span><a href="/help/">帮助中心</a></span>
+ <span><a href="/help/1488.html">广告联系</a></span>
+ </div>
+</div>
+
+<div class="tip">
+ <h2><a href="/" title="县情资料网---有深度、有态度、接地气的县域县情站点 "><img src="/skin/zxw/images/logo.png" alt="县情资料网---有深度、有态度、接地气的县域县情站点"></a></h2>
+ <h3 class="sub_logo"><a href="/" title="县情资料网---有深度、有态度、接地气的县域县情站点 "><img src="/skin/zxw/images/sub_logo.png" alt="县情资料网---有深度、有态度、接地气的县域县情站点" ></a></h3>
+ <div class="tip_r">
+  <div class="search">
+  
+  <form  method="post" action="/e/search/index.php"  name="formsearch">
+  
+  <input type="hidden" name="show" value="title,newstext">   <!--搜索的字段-->
+  <input type="hidden" name="tempid" value="2">              <!--所用搜索模板的ID-->
+  <input type="hidden" name="tbname" value="news">           <!--按数据表搜索-->
+ 
+  <input name="keyboard" value="请输入关键词" class="s_w" onblur="if (this.value ==''){this.value=this.defaultValue}" onclick="if(this.value=='请输入关键词')this.value=''" type="text">
+  <input name="submit" value="提 交" class="an" type="submit">
+  </form> 
+  </div>
+  <div class="tag"><b>热门关键词：</b>　<a href='/e/search/result/?searchid=14070' target=_blank>2016年团风县</a>&nbsp;<a href='/e/search/result/?searchid=14069' target=_blank>2020年连南</a>&nbsp;<a href='/e/search/result/?searchid=14068' target=_blank>2019年连南</a>&nbsp;<a href='/e/search/result/?searchid=14067' target=_blank>济南市槐荫区</a>&nbsp;<a href='/e/search/result/?searchid=14066' target=_blank>2019年玉溪</a><br></div>
+ </div>
+</div>
+
+
+
+
+<div class="bk_nav">
+    <ul>
+
+<li><a href="/" >首页</a>
+</li>
+      
+      
+<li><a href="/zixun/" class="">资讯</a></li>
+<li><a href="/keji/" class="">科技</a></li>
+<li><a href="/xianyujingjitop/" class="">县域经济</a></li>
+<li><a href="/shixiaqutop/" class="">市辖区</a></li>
+<li><a href="/shujuziliao/" class="curr">数据资料</a></li>
+<li><a href="/hulianwangtop/" class="">互联网+</a></li>
+<li><a href="/mqmp/" class="">名企名品</a></li>
+<li><a href="/jiankang/" class="">健康</a></li>
+<li><a href="/chuanmei/" class="">传媒</a></li>
+<li><a href="/photonews/" class="">图片新闻</a></li>
+<li><a href="/videotop/" class="">视频</a></li>
+<li><a href="/help/" class="">帮助中心</a></li>
+       
+      
+
+    </ul>
+ </div>
+
+
+<div class="con PT20">
+ <div class="conl">
+  <!--列表页广告位1-->
+  <script src="/d/js/acmsd/thea5.js"></script>
+  <!--/广告位-->
+  <div class="lbtc l">
+   <div class="itj_lt it3">
+   <h2 class="lc"><a href="/">首页</a>&nbsp;>&nbsp;<a href="/shujuziliao/">数据资料</a>&nbsp;>&nbsp;<a href="/gongzuobaogao/">政府工作报告</a></h2>
+   <div class="submark"><a class="more" href="/" target="_blank">返回首页</a></div></div>
+   <div class="arc">
+<br>
+    <div class="title"><h1>（黑龙江）2019年桦南县人民政府工作报告（全文）</h1></div>
+    <div class="resource">来源：桦南县政府网   作者：知县网 人气：0 发布时间：2019-01-21 08:31:09</div>
+    <div class="des">摘要：全省县域经济排名由第28位升至第25位。全县地区生产总值预计实现140亿元，同比增长5.5%;固定资产投资预计实现43亿元，同比增长20.5%;一般公共预算收入实现3.1亿元，同比增长5.3%;社会消费品零售总额预计实现87亿元，同比增长10%;城镇、农村居民人均可支配收入预计分别实现25200元、14848元，同比均增长7%。各项发展指标位于全市前列。...</div>
+    <div class="content">
+     <table width='100%'>
+    <tr>
+     <td>
+     
+     <div class="arcbodyad">
+     <!--内容页广告位1-->
+     <script src="/d/js/acmsd/thea8.js"></script>
+     <!--/广告位-->
+     </div>
+     
+<div>
+<p style="text-align: justify;"><span style="font-size:14px;">　　政府工作报告</span><span style="display:none">oel县情资料网---有深度、有态度、接地气的县域县情站点</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px;">　　&mdash;&mdash;在县第十七届人民代表大会第三次会议上</span><span style="display:none">oel县情资料网---有深度、有态度、接地气的县域县情站点</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px;">　　桦南县人民政府 梁庆民</span><span style="display:none">oel县情资料网---有深度、有态度、接地气的县域县情站点</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px;">　　2019年1月4日</span><span style="display:none">oel县情资料网---有深度、有态度、接地气的县域县情站点</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px;">　　各位代表：</span><span style="display:none">oel县情资料网---有深度、有态度、接地气的县域县情站点</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px;">　　现在，我代表桦南县人民政府向大会报告工作，请予审议，并请县政协各位委员提出意见。</span><span style="display:none">oel县情资料网---有深度、有态度、接地气的县域县情站点</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px;">　　一、2018年工作回顾</span><span style="display:none">oel县情资料网---有深度、有态度、接地气的县域县情站点</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px;">　　过去的一年，我们坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻落实党的十九大精神、习近平总书记重要讲话和重要指示精神，在市委、市政府和县委的坚强领导下，自觉践行新发展理念，牢牢把握稳中求进工作总基调，全力以赴稳增长、促改革、调结构、惠民生、防风险，有力推动了经济社会发展，圆满完成了县十七届人大二次会议确定的目标任务。全省县域经济排名由第28位升至第25位。全县地区生产总值预计实现140亿元，同比增长5.5%;固定资产投资预计实现43亿元，同比增长20.5%;一般公共预算收入实现3.1亿元，同比增长5.3%;社会消费品零售总额预计实现87亿元，同比增长10%;城镇、农村居民人均可支配收入预计分别实现25200元、14848元，同比均增长7%。各项发展指标位于全市前列。</span><span style="display:none">oel县情资料网---有深度、有态度、接地气的县域县情站点</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px;">　　&mdash;&mdash;脱贫攻坚夺取重要成果。坚决打好打赢脱贫攻坚&ldquo;四场硬仗&rdquo;，全年完成脱贫退出8629人，贫困发生率降至1.08%，顺利通过贫困县退出市级初审。新建光伏发电、棚室瓜菜等项目43个，实现192个行政村产业扶贫项目收益全覆盖，带动23231名贫困人口，年人均增收1200元。实施&ldquo;九八九&rdquo;脱贫攻坚转移就业工程[1]，贫困人口转移就业1524人，年人均增收2.1万元，在全国就业扶贫现场会上作了经验介绍。全面落实&ldquo;1+33&rdquo;配套政策[2]，资助贫困学生9769人(次)，健康扶贫受益5.9万人(次)，6681户、12398名贫困人口享受低保兜底政策，发放扶贫小额贷款7494万元、扶贫再贷款6520万元，维修改造泥草(危)房2702户，改厕1534户，完成223个村屯饮水安全工程。建档立卡贫困村&ldquo;三通三有&rdquo;[3]全部达标，新建及改造农村公路102.7公里，建设文化活动广场22个。创新实施增强内生动力&ldquo;十种招法&rdquo;[4]，发放惠民&ldquo;十大红包&rdquo;[5]，设置公益岗位1365个。广泛开展&ldquo;双走进&rdquo;[6]等活动，各级帮扶干部帮助贫困群众解决生产生活问题4.3万件。</span><span style="display:none">oel县情资料网---有深度、有态度、接地气的县域县情站点</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px;">　　&mdash;&mdash;项目建设实现重大突破。全年招商引资签约项目50项，签约总额51.3亿元，其中亿元以上13项，五千万元以上16项。特别是成功引进30万吨玉米燃料乙醇、金源新型建筑装饰材料板等重大项目落户桦南。8个省重点产业项目进展顺利，德昱成肉鸡养殖深加工、蓝谷营养均衡餐粉生产线等6个项目主体完工，万丰德掺混肥扩建项目竣工投产，鑫恒发纯电动车综合服务中心试运营。全县开复工项目54项，其中亿元以上项目37项，五千万元以上项目17项。招商引资实际到位资金、固定资产投资绝对值、省重点项目开复工数量和亿元以上项目数量排名全市第一。全市春季开复工项目现场会、全市招商引资和重点项目建设工作现场会在我县召开。</span><span style="display:none">oel县情资料网---有深度、有态度、接地气的县域县情站点</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px;">　　&mdash;&mdash;现代农业加快融合发展。种植业结构持续优化，种植玉米156.3万亩、大豆90万亩、水稻80.1万亩、杂粮杂豆及经济作物15.7万亩，粮食总产量预计达到23亿斤。培育&ldquo;一村一品&rdquo;[7]示范村10个，发展中药材2.1万亩，蔬菜5.9万亩，成功举办桦南县首届中药材产业发展论坛。建设绿色蔬菜生产示范基地5个，创建国家级绿色食品原料标准化生产基地4个、绿色和有机标识认证达26个、国家地理标识3个，龙兴蔬菜基地被评为&ldquo;全省十大标准化蔬菜生产基地&rdquo;，董长彦被评为&ldquo;全国杰出农村实用人才&rdquo;。畜牧业健康发展，预计实现产值34亿元，被评为&ldquo;全省重大动物疫病防控工作先进单位&rdquo;。农业综合生产能力不断提升，土龙山镇土地整治工程、公心集庆发段倭肯河治理工程进展顺利，建设&ldquo;互联网+农业&rdquo;高标准示范基地2个、益农信息站195个，入选全国&ldquo;平安农机示范县&rdquo;创建名单。农业产业化步伐加快，市级以上农业产业化龙头企业达到30户，农民专业合作社、家庭农场分别发展到1859家和583家。一二三产融合发展，新创建国家级现代农业创业园1个、省级现代农业产业园、科技园3个，桦南县被列为首批国家级农村一二三产融合发展先导区创建单位。</span><span style="display:none">oel县情资料网---有深度、有态度、接地气的县域县情站点</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px;">　　&mdash;&mdash;产业发展持续提质增效。民营经济快速发展，全县各类市场主体发展到1.7万户，同比增长41.3%，新增规上企业[8]4户。成功举办桦南县第三届商洽会，签约额达到1.2亿元。成立了代餐粉产业联盟，全国唯一代餐粉标准化委员会落户桦南，获批成立黑龙江桦南代餐粉产业知名品牌创建示范区。启动实施&ldquo;高新技术企业双倍增三年培育计划&rdquo;[9]，与江南大学等共建院县科技创新平台13个，培育和孵化科技型中小企业72家。电子商务产业园投入运营，新增电商村1个、村级服务站30个，电商交易额预计实现2亿元，同比增长10.6%。旅游文化产业发展势头强劲，关药基地特色小镇项目进展顺利，完成9个乡村旅游基础设施建设工程，桦西湖旅游景区、森林蒸汽小火车休闲旅游区被评为国家3A级景区，成功举办了首届冬捕旅游文化节、冰上汽车场地赛等冰雪文化活动，全年接待游客103万人次，同比增长124%。进出口贸易总额预计实现4.45亿元，同比增长10%。</span><span style="display:none">oel县情资料网---有深度、有态度、接地气的县域县情站点</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px;">　　&mdash;&mdash;城乡环境大幅改善提升。实施区域协同发展战略，投入4.5亿元，全力打造市政精品工程，城市功能日趋完善，承载能力显著提升。打造幸福湿地公园、金辉大街等绿化美化工程137处，城市绿化覆盖率41.4%。新建及改造城区道路13条、沥青罩面36.9万平方米，配套建设通讯管廊11公里。新增燃气用户2084户，维修改造排水管网16.6公里，污水处理厂出水水质优于国家&ldquo;一级A&rdquo;[10]标准。完成棚户区改造15.7万平方米，开工建设回迁安置房1564套，完成老旧小区改造49个。全面落实河湖长制，重要河湖水功能区水质达标率达到60%。实行有效解决秸秆露天焚烧网格化管理，全域实现&ldquo;零火点&rdquo;，全市秸秆综合利用现场推进会在我县召开。大力实施耕地保护行动，完成两区划定220万亩，查处违法采石采砂企业11家，落实农业&ldquo;三减&rdquo;[11]实验示范基地10个。荣获&ldquo;省级生态县&rdquo;称号。开展&ldquo;五清五改五净&rdquo;[12]行动，完成17个示范村绿化美化工程，被评为&ldquo;全省美丽乡村建设先进县&rdquo;。</span><span style="display:none">oel县情资料网---有深度、有态度、接地气的县域县情站点</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px;">　　&mdash;&mdash;各项改革蹄疾步稳推进。相对集中行政许可权改革成效显著，组建了全省第一家县级行政审批局，率先实施&ldquo;最多跑一次、最多见一面&rdquo;改革，颁发全省首个&ldquo;41证合一&rdquo;营业执照，实现了个体营业执照即办、企业营业证照2个工作日办结、城区不动产登记60分钟出证的全国领先速度。率先在全市启动&ldquo;证照分离&rdquo;改革，颁发了全市首张告知承诺制许可证。&ldquo;强乡扩权&rdquo;改革及加强乡镇政府服务能力建设试点全面铺开，代表黑龙江省顺利通过民政部督导验收，多次在全国、省、市重要会议上介绍经验。土龙山镇经济发达镇行政管理体制改革试点顺利推进。土地确权登记证书应发尽发，被确定为全国农村集体产权制度改革整县推进试点县。全面实施事业单位改革，有序推进地方机构改革，农村商业银行改革稳步推进，国地税、国有林场、城市管理执法体制改革任务顺利完成。</span><span style="display:none">oel县情资料网---有深度、有态度、接地气的县域县情站点</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px;">　　&mdash;&mdash;人民生活水平日益提高。贴近群众需求办好民生实事，全年投入民生资金35.2亿元，占一般公共预算支出的89%。创新开展了就业&ldquo;三大行动&rdquo;[13]，新增城镇就业5180人，转移就业1.5万人(次)，城镇登记失业率控制在3.98%以内。&ldquo;桦南家政服务品牌&rdquo;成为全省第一顺位推荐的&ldquo;国家级知名劳务品牌&rdquo;，在全省就业工作会上交流了经验。社会保障能力进一步增强，城镇职工和城乡居民养老保险参保16.5万人，城乡居民医疗保险参保28.7万人。城乡低保动态监管机制逐步完善，核查清退3921户9273人。综合养老服务中心采取&ldquo;公建民营&rdquo;模式运营，&ldquo;康复中心&rdquo;项目主体完工。在全市率先落实65周岁以上老年人免费乘坐公交车政策。省级双拥模范县创建工作扎实推进，军民融合深度发展。社区建设取得新进展，新增千平方米以上社区活动场所4个，深入推行社区&ldquo;5+N+V&rdquo;综合治理模式[14]，在全省&ldquo;枫桥经验&rdquo;座谈会上作了交流发言。开通全省第一家&ldquo;12345&rdquo;市民服务平台，受理群众信息1.4万件(次)，办结率98%。</div>
+
+     </td>
+     </tr>
+     </table>
+    </div>
+   
+  
+   <div class="pagebreak">
+  <a title="Page">&nbsp;<b>1</b>/<b>5</b> </a>&nbsp;&nbsp;&nbsp;<b>1</b>&nbsp;<a href="/gongzuobaogao/12951_2.html">2</a>&nbsp;<a href="/gongzuobaogao/12951_3.html">3</a>&nbsp;<a href="/gongzuobaogao/12951_4.html">4</a>&nbsp;<a href="/gongzuobaogao/12951_5.html">5</a>&nbsp;<a href="/gongzuobaogao/12951_2.html">下一页</a>&nbsp;<a href="/gongzuobaogao/12951_5.html">尾页</a>
+   </div>
+   
+    <div id="linkNC">
+        	<a href="/" id="aNC"></a>
+			<!--<div class="a1">责任编辑：县情资料网</div>-->
+              <div class="clear"></div>     
+        </div>
+        
+<!--start 打赏-->
+<link href="/skin/zxw/style/dashang.css" type="text/css" rel="stylesheet">    
+<script type="text/javascript" src="/skin/zxw/js/jquery.min.js"></script>
+    <div class="dashang-content">
+    <p><a href="javascript:void(0)" onClick="dashangToggle()" class="dashang" title="打赏，支持一下">打赏</a></p>
+    <div class="hide_box"></div>
+    <div class="shang_box">
+    	<a class="shang_close" href="javascript:void(0)" onClick="dashangToggle()" title="关闭"><img src="/skin/zxw/images/close.jpg" alt="取消" /></a>
+       
+    	<div class="shang_tit">
+    		<p>感谢您的支持，我会继续努力的!</p>
+    	</div>
+    	<div class="shang_payimg">
+    		<img src="/skin/zxw/images/alipayimg.jpg" alt="扫码支持" title="扫一扫" />
+    	</div>
+    		<div class="pay_explain">扫码打赏，建议金额1-10元</div>
+    	<div class="shang_payselect">
+    		<div class="pay_item checked" data-id="alipay">
+	    		<span class="radiobox"></span>
+	    		<span class="pay_logo"><img src="/skin/zxw/images/alipay.jpg" alt="支付宝" /></span>
+    		</div>
+    		<div class="pay_item" data-id="weipay">
+	    		<span class="radiobox"></span>
+	    		<span class="pay_logo"><img src="/skin/zxw/images/wechat.jpg" alt="微信" /></span>
+    		</div>
+    	</div>
+    	
+    </div>
+    </div>
+    <script type="text/javascript">
+    $(function(){
+    	$(".pay_item").click(function(){
+    		$(this).addClass('checked').siblings('.pay_item').removeClass('checked');
+    		var dataid=$(this).attr('data-id');
+    		$(".shang_payimg img").attr("src","/skin/zxw/images/"+dataid+"img.jpg");
+    		$("#shang_pay_txt").text(dataid=="alipay"?"支付宝":"微信");
+    	});
+    });
+    function dashangToggle(){
+    	$(".hide_box").fadeToggle();
+    	$(".shang_box").fadeToggle();
+    }
+    </script>
+
+<!--end 打赏-->
+
+
+
+
+
+
+   <div class="fenxiang">
+    <div class="fx_l">
+    <!-- JiaThis Button BEGIN -->
+<div class="jiathis_style">
+
+<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a></div>
+<script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"32"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</div>
+
+</div>
+   </div>
+   <div class="fanpian">
+    <p>上一篇：<a href='/gongzuobaogao/12947.html'>（黑龙江）2019年尚志市人民政府工作报告（全文）</a></p>
+    <p>下一篇：<a href='/gongzuobaogao/12952.html'>（黑龙江）2019年林甸县人民政府工作报告（全文）</a></p>
+   </div>
+   </div>
+  </div>
+  <div class="pl MB10">
+  
+<!--评论上面的广告-->
+<script src="/d/js/acmsd/thea14.js"></script>
+<!--/评论上面的广告-->
+
+<script>
+function CheckPl(obj)
+{
+if(obj.saytext.value=="")
+{
+alert("您没什么话要说吗？");
+obj.saytext.focus();
+return false;
+}
+return true;
+}
+</script>
+          
+<!--评论框-->          
+<div class="pinglun">          
+<form action="/e/pl/doaction.php" method="post" name="saypl" id="saypl" onsubmit="return CheckPl(document.saypl)">
+<p>
+<strong>发表评论</strong>
+</p>
+
+
+<!--登录提示-->
+<script src="/e/pl/test.php"></script>
+
+<p class="pl-list"><textarea class="saytext" name="saytext" rows="6" id="saytext"></textarea></p>
+
+<p class="pl-list">
+<label for="password">验证码</label>
+<input name="key" type="text" class="ipt" size="10" />
+<img src="/e/ShowKey/?v=pl" align="absmiddle" name="plKeyImg" id="plKeyImg" onclick="plKeyImg.src='/e/ShowKey/?v=pl&t='+Math.random()" title="看不清楚,点击刷新" />
+</p>
+
+<p class="pl-list">
+<input class="tijiao" type="submit" value="提交评论" />
+</p>
+
+<input name="id" type="hidden" id="id" value="12951" />
+<input name="classid" type="hidden" id="classid" value="35" />
+<input name="enews" type="hidden" id="enews" value="AddPl" />
+<input name="repid" type="hidden" id="repid" value="0" />
+<input type="hidden" name="ecmsfrom" value="/gongzuobaogao/12951.html">
+
+</form>
+
+</div>
+
+<!--评论列表-->
+<script type="text/javascript" src="/e/data/js/ajax.js"></script>
+
+<div class="pinglun-list">
+
+<div class='pl-head'>
+<a href="/e/pl/?classid=35&amp;id=12951">共有<span style="color:#FF5E52;"><script type="text/javascript" src="/e/public/ViewClick/?classid=35&id=12951&down=2"></script></span>条评论</a>
+</div>
+
+
+<script src="/e/pl/more?classid=35&id=12951&num=10"></script>
+</div>
+  
+  
+  
+<!-- UY BEGIN -->
+<!--高速版-->
+<!--<div id="SOHUCS"></div>
+<script charset="utf-8" type="text/javascript" src="http://changyan.sohu.com/upload/changyan.js" ></script>
+<script type="text/javascript">
+    window.changyan.api.config({
+        appid: 'cys7VPPAt',
+        conf: 'prod_42e3e61fca7fb29eb7fadea073e4a4fa'
+    });
+</script>   -->     
+<!-- UY END -->
+  </div>
+
+  <div class="xiangguan MB10">
+   <div class="dTit4 clearfix"><h3>频道精选</h3></div>
+  <div class="box_list">
+   <ul class="PT10">
+   
+    
+    <li><span><a href="/gongzuobaogao/5932.html" title="（四川省）2015年德昌县人民政府工作报告（全文）">（四川省）2015年德昌县人民政府工作报告（全文）</a></span><b>2016-02-04 10:18:312016-12-18 09:42:10</b></li>
+    
+    <li><span><a href="/gongzuobaogao/9902.html" title="（河北省）2017年邢台市人民政府工作报告（全文）">（河北省）2017年邢台市人民政府工作报告（全文）</a></span><b>2016-02-04 10:18:312018-04-12 09:10:22</b></li>
+    
+    <li><span><a href="/gongzuobaogao/11471.html" title="（山西省）2018年榆社县人民政府工作报告（全文）">（山西省）2018年榆社县人民政府工作报告（全文）</a></span><b>2016-02-04 10:18:312018-08-11 08:55:06</b></li>
+    
+    <li><span><a href="/gongzuobaogao/17319.html" title="（安徽省）2020年来安县人民政府工作报告（全文）">（安徽省）2020年来安县人民政府工作报告（全文）</a></span><b>2016-02-04 10:18:312020-01-20 08:37:17</b></li>
+    
+    <li><span><a href="/gongzuobaogao/18911.html" title="（四川省）2020年阿坝藏族羌族自治州人民政府工作报告（全文）">（四川省）2020年阿坝藏族羌族自治州人民政府工作报告（全文）</a></span><b>2016-02-04 10:18:312020-07-04 10:34:11</b></li>
+    
+    
+    </ul>
+   <ul class="PT10">
+    
+    <li><span><a href="/gongzuobaogao/19399.html" title="（山东省）2020年高唐县人民政府工作报告（全文）">（山东省）2020年高唐县人民政府工作报告（全文）</a></span><b>2016-02-04 10:18:312020-08-22 08:10:58</b></li>
+    
+    <li><span><a href="/gongzuobaogao/11795.html" title="（吉林省）2017年前郭县人民政府工作报告（全文）">（吉林省）2017年前郭县人民政府工作报告（全文）</a></span><b>2016-02-04 10:18:312018-09-09 08:35:49</b></li>
+    
+    <li><span><a href="/gongzuobaogao/15075.html" title="（甘肃省）2018年徽县人民政府工作报告（全文）">（甘肃省）2018年徽县人民政府工作报告（全文）</a></span><b>2016-02-04 10:18:312019-06-27 08:55:38</b></li>
+    
+    <li><span><a href="/gongzuobaogao/15172.html" title="（四川省）2019年井研县人民政府工作报告（全文）">（四川省）2019年井研县人民政府工作报告（全文）</a></span><b>2016-02-04 10:18:312019-07-04 09:16:28</b></li>
+    
+    <li><span><a href="/gongzuobaogao/5701.html" title="（山西省）2016年宁武县人民政府工作报告（全文）">（山西省）2016年宁武县人民政府工作报告（全文）</a></span><b>2016-02-04 10:18:312016-11-25 07:54:04</b></li>
+    
+
+   </ul>
+  </div>
+  <div class="box_img">
+  
+    
+  <div class="box_imga"><a href="/gongzuobaogao/5907.html" title="（广西）2016年马山县人民政府工作报告（全文）"><img src="/e/data/images/notimg.gif" alt="（广西）2016年马山县人民政府工作报告（全文）" /></a><span><a href="/gongzuobaogao/5907.html" title="（广西）2016年马山县人民政府工作报告（全文）">（广西）2016年马山县人民政府工作报告（全文）</a></span></div>
+    
+  <div class="box_imga"><a href="/gongzuobaogao/17419.html" title="（江苏省）2020年泰州市人民政府工作报告（全文）"><img src="/e/data/images/notimg.gif" alt="（江苏省）2020年泰州市人民政府工作报告（全文）" /></a><span><a href="/gongzuobaogao/17419.html" title="（江苏省）2020年泰州市人民政府工作报告（全文）">（江苏省）2020年泰州市人民政府工作报告（全文）</a></span></div>
+    
+
+
+  </div>
+  </div>
+  <!--
+  <div class="linkarc">
+   <div class="linkarc_t tit5" id="tag_about"><h2>相关阅读</h2></div>
+   <div class="linkarc_c">
+    <ul>
+    
+    </ul>
+   </div>
+  </div>
+  -->
+  <div class="lad2 p10"></div>
+ </div>
+
+  
+<div class="conr PB10">
+  <div class="lad l">
+   <dl class="bk1 lit">
+   
+<dd class='lit'>
+<center>
+<!--侧边栏广告位1-->
+<script src="/d/js/acmsd/thea6.js"></script>
+<!--/广告位-->
+</center>
+</dd>
+</dl>
+  
+  </div>
+  
+  
+  
+  
+  <div class="lbt_timg">
+    <ul>
+    
+        <li><a href="/gongzuobaogao/19700.html" title="（广西）2020年荔浦市人民政府工作报告（全文）"><img src="/e/data/images/notimg.gif" alt="（广西）2020年荔浦市人民政府工作报告（全文）"></a><a href="/gongzuobaogao/19700.html" title="（广西）2020年荔浦市人民政府工作报告（全文）"><span>（广西）2020年荔浦市人民政府工作报告（全文）</span></a></li>
+        <li><a href="/gongzuobaogao/19701.html" title="（广西）2020年资源县人民政府工作报告（全文）"><img src="/e/data/images/notimg.gif" alt="（广西）2020年资源县人民政府工作报告（全文）"></a><a href="/gongzuobaogao/19701.html" title="（广西）2020年资源县人民政府工作报告（全文）"><span>（广西）2020年资源县人民政府工作报告（全文）</span></a></li>
+        <li><a href="/gongzuobaogao/19703.html" title="（广西）2020年恭城瑶族自治县人民政府工作报告（全文）"><img src="/e/data/images/notimg.gif" alt="（广西）2020年恭城瑶族自治县人民政府工作报告（全文）"></a><a href="/gongzuobaogao/19703.html" title="（广西）2020年恭城瑶族自治县人民政府工作报告（全文）"><span>（广西）2020年恭城瑶族自治县人民政府工作报告（全文）</span></a></li>
+        <li><a href="/gongzuobaogao/19705.html" title="（广西）2020年永福县人民政府工作报告（全文）"><img src="/e/data/images/notimg.gif" alt="（广西）2020年永福县人民政府工作报告（全文）"></a><a href="/gongzuobaogao/19705.html" title="（广西）2020年永福县人民政府工作报告（全文）"><span>（广西）2020年永福县人民政府工作报告（全文）</span></a></li>
+    
+ 
+    </ul>
+   </div>
+  <div class="info_right">
+    <div class="info_right_tit">
+      <ul  id="Show2">
+        <li class="active" onmouseover="ThinkOver(this,0);"><a href="#" target="_blank" title="">热点资讯</a></li>
+        <li class="normal" onmouseover="ThinkOver(this,1);"><a href="#" target="_blank" title="">县域资讯</a></li>
+        <li class="normal" onmouseover="ThinkOver(this,2);"><a href="#" target="_blank" title="">财经资讯</a></li>
+      </ul>
+    </div>
+  <div class="info"  id="Show2C0">
+
+   <div class="info_hot"><a href="/gongzuobaogao/19700.html" title="（广西）2020年荔浦市人民政府工作报告（全文）"><img src="/e/data/images/notimg.gif" alt="（广西）2020年荔浦市人民政府工作报告（全文）" /></a><span><a href="/gongzuobaogao/19700.html" title="（广西）2020年荔浦市人民政府工作报告（全文）">（广西）2020年荔浦市人民政府工作报告（全文）...</a><br/>浏览次数：<b>0次</b></span></div>
+
+
+
+   <div class="info_right_list">
+   
+        <a href="/gongzuobaogao/19700.html" title="（广西）2020年荔浦市人民政府工作报告（全文）">（广西）2020年荔浦市人民政府工作报告（全文）</a><p>浏览:0次</P>
+        <a href="/gongzuobaogao/19701.html" title="（广西）2020年资源县人民政府工作报告（全文）">（广西）2020年资源县人民政府工作报告（全文）</a><p>浏览:0次</P>
+        <a href="/gongzuobaogao/19703.html" title="（广西）2020年恭城瑶族自治县人民政府工作报告（全文）">（广西）2020年恭城瑶族自治县人民政府工作报告（全文）</a><p>浏览:0次</P>
+        <a href="/gongzuobaogao/19705.html" title="（广西）2020年永福县人民政府工作报告（全文）">（广西）2020年永福县人民政府工作报告（全文）</a><p>浏览:0次</P>
+        <a href="/gongzuobaogao/19696.html" title="（广西）2020年柳城县人民政府工作报告（全文）">（广西）2020年柳城县人民政府工作报告（全文）</a><p>浏览:0次</P>
+        <a href="/gongzuobaogao/19697.html" title="（广西）2020年阳朔县人民政府工作报告（全文）">（广西）2020年阳朔县人民政府工作报告（全文）</a><p>浏览:0次</P>
+        <a href="/gongzuobaogao/19694.html" title="（广西）2020年横县人民政府工作报告（全文）">（广西）2020年横县人民政府工作报告（全文）</a><p>浏览:0次</P>
+        <a href="/gongzuobaogao/19689.html" title="（湖北省）2020年仙桃市人民政府工作报告（全文）">（湖北省）2020年仙桃市人民政府工作报告（全文）</a><p>浏览:0次</P>
+        <a href="/gongzuobaogao/19691.html" title="（湖北省）2020年天门市人民政府工作报告（全文）">（湖北省）2020年天门市人民政府工作报告（全文）</a><p>浏览:0次</P>
+        
+    </div>
+   </div>
+   
+  
+  </div>
+  
+  
+
+<div>
+
+
+
+
+
+  <div class="llb">
+  <h2>最火资讯</h2>
+  <div class="llb_ul col888 a_000">
+<ul>
+
+<li class="paihang1"><a class="b" href="/gongzuobaogao/2901.html" title="（贵州省）2016年凯里市人民政府工作报告（全文）">（贵州省）2016年凯里市人民政府工作报告（全文）</a><br>（2016年1月17日在凯里市第八届人 
+...</li>
+<li class="paihang2"><a class="b" href="/gongzuobaogao/2844.html" title="（江西省）2016年赣州市人民政府工作报告（全文）">（江西省）2016年赣州市人民政府工作报告（全文）</a><br>冷新生在2016年2月25日赣州市第四 
+...</li>
+<li class="paihang3"><a class="b" href="/gongzuobaogao/2673.html" title="（河北省）2016年迁安市人民政府工作报告（全文）">（河北省）2016年迁安市人民政府工作报告（全文）</a><br>政府工作报告 2016年2月16日在迁 
+...</li>
+
+ 
+ 
+<li class="llb_list">&middot;<a href="/gongzuobaogao/2775.html" title="（四川省）2016年都江堰市人民政府工作报告（全文）">（四川省）2016年都江堰市人民政府工作报告（全</a></li>
+<li class="llb_list">&middot;<a href="/gongzuobaogao/1838.html" title="（安徽省）2016年阜南县人民政府工作报告（全文）">（安徽省）2016年阜南县人民政府工作报告（全文</a></li>
+<li class="llb_list">&middot;<a href="/gongzuobaogao/2209.html" title="（山东省）2016年巨野县人民政府工作报告（全文）">（山东省）2016年巨野县人民政府工作报告（全文</a></li>
+<li class="llb_list">&middot;<a href="/gongzuobaogao/1903.html" title="（山东省）2016年章丘市人民政府工作报告（全文）">（山东省）2016年章丘市人民政府工作报告（全文</a></li>
+<li class="llb_list">&middot;<a href="/gongzuobaogao/2397.html" title="（河南省）2016年登封市人民政府工作报告（全文）">（河南省）2016年登封市人民政府工作报告（全文</a></li>
+<li class="llb_list">&middot;<a href="/gongzuobaogao/1811.html" title="（安徽省）2016年萧县人民政府工作报告（全文）">（安徽省）2016年萧县人民政府工作报告（全文）</a></li>
+<li class="llb_list">&middot;<a href="/gongzuobaogao/1791.html" title="（辽宁省）2015年瓦房店市人民政府工作报告（全文）">（辽宁省）2015年瓦房店市人民政府工作报告（全</a></li>
+<li class="llb_list">&middot;<a href="/gongzuobaogao/2327.html" title="（广西）2016年陆川县人民政府工作报告（全文）">（广西）2016年陆川县人民政府工作报告（全文）</a></li>
+
+ 
+</ul></div>
+  </div>
+
+
+<!--侧边栏广告位2-->
+<script src="/d/js/acmsd/thea7.js"></script>
+<!--/广告位-->
+
+ </div> </div>
+  
+</div> 
+  
+
+<div class="clearfix"></div>
+
+
+
+<div class="bottombar">
+<!--底部广告-->
+<script src="/d/js/acmsd/thea13.js"></script>
+<!--/底部广告-->
+
+
+  <div class="bottombar-inner clear">
+    <div class="bot-left">
+      <h4>热门频道推荐</h4>
+      <div class="bot-left-list">
+        <ul>
+          
+          <li><a href="/zixun/" title="资讯">资讯</a></li>
+          
+          <li><a href="/keji/" title="科技">科技</a></li>
+          
+          <li><a href="/sannong/" title="三农">三农</a></li>
+          
+          <li><a href="/xianyujingji/" title="县域经济">县域经济</a></li>
+          
+          <li><a href="/housenews/" title="县域房产">县域房产</a></li>
+          
+          <li><a href="/shujuziliao/" title="数据资料">数据资料</a></li>
+          
+          <li><a href="/hulianwang/" title="互联网+">互联网+</a></li>
+          
+          <li><a href="/qiche/" title="汽车">汽车</a></li>
+          
+          <li><a href="/jiankang/" title="健康">健康</a></li>
+          
+          <li><a href="/chuanmei/" title="传媒">传媒</a></li>
+          
+          <li><a href="/photonews/" title="图片新闻">图片新闻</a></li>
+          
+          <li><a href="/video/" title="视频">视频</a></li>
+          
+          <div style="clear:both"></div>
+        </ul>
+      </div>
+    </div>
+    <div class="bot-center">
+      <h4>相关功能</h4>
+      <div class="bot-center-list">
+        <ul>
+          <li class="center-01"><a href="/help/" target="_blank">网站简介</a></li>
+          <li class="center-02"><a href="/help/" target="_blank">常见问题</a></li>
+          <li class="center-03"><a href="/help/" target="_blank">广告投放</a></li>
+          <li class="center-04"><a href="/help/" target="_blank">联系我们</a></li>
+          <li class="center-05"><a href="/help/" target="_blank">网站地图</a></li>
+          <li class="center-06"><a href="#" target="_blank">联系客服</a></li>
+          <div style="clear:both"></div>
+        </ul>
+      </div>
+    </div>
+    <div class="bot-right">
+      <h4>县域县情站点</h4>
+      <p class="p1">县情资料网：思想、态度、嗅觉</p>
+      <p class="p2">邮箱：ahcounty@163.com<br>
+        <a href="http://beian.miit.gov.cn">皖ICP备14012504号-4 </a></p>
+    </div>
+  </div>
+</div>
+<div class="clearfix"></div>
+<div class="ft">
+  <div class="link">
+    <h2>网站链接：</h2>
+    </div>
+
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5942789'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/stat.php%3Fid%3D5942789%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+
+</div>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?89419ac475df8d1741a745ed9ff19100";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+
+<div class="banquan"><span>县情资料网：思想、态度、嗅觉</span><span><a href="http://beian.miit.gov.cn">皖ICP备14012504号-4 </a></span><span>邮箱：ahcounty@163.com</span></div>
+
+</body>
+</html>

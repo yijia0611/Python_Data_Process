@@ -1,0 +1,54 @@
+name#score
+肖申克的救赎 The Shawshank Redemption#9.7
+霸王别姬#9.6
+阿甘正传 Forrest Gump#9.5
+这个杀手不太冷 Léon#9.4
+泰坦尼克号 Titanic#9.4
+美丽人生 La vita è bella#9.5
+千与千寻 千と千尋の神隠し#9.4
+辛德勒的名单 Schindler's List#9.5
+盗梦空间 Inception#9.3
+忠犬八公的故事 Hachi: A Dog's Tale#9.4
+海上钢琴师 La leggenda del pianista sull'oceano#9.3
+星际穿越 Interstellar#9.3
+楚门的世界 The Truman Show#9.3
+三傻大闹宝莱坞 3 Idiots#9.2
+机器人总动员 WALL·E#9.3
+放牛班的春天 Les choristes#9.3
+大话西游之大圣娶亲 西遊記大結局之仙履奇緣#9.2
+熔炉 도가니#9.3
+疯狂动物城 Zootopia#9.2
+无间道 無間道#9.2
+教父 The Godfather#9.3
+龙猫 となりのトトロ#9.2
+当幸福来敲门 The Pursuit of Happyness#9.1
+怦然心动 Flipped#9.1
+触不可及 Intouchables#9.2
+name#score
+肖申克的救赎 The Shawshank Redemption#9.7
+霸王别姬#9.6
+阿甘正传 Forrest Gump#9.5
+这个杀手不太冷 Léon#9.4
+泰坦尼克号 Titanic#9.4
+美丽人生 La vita è bella#9.5
+千与千寻 千と千尋の神隠し#9.4
+辛德勒的名单 Schindler's List#9.5
+盗梦空间 Inception#9.3
+忠犬八公的故事 Hachi: A Dog's Tale#9.4
+海上钢琴师 La leggenda del pianista sull'oceano#9.3
+星际穿越 Interstellar#9.3
+楚门的世界 The Truman Show#9.3
+三傻大闹宝莱坞 3 Idiots#9.2
+机器人总动员 WALL·E#9.3
+放牛班的春天 Les choristes#9.3
+大话西游之大圣娶亲 西遊記大結局之仙履奇緣#9.2
+熔炉 도가니#9.3
+疯狂动物城 Zootopia#9.2
+无间道 無間道#9.2
+教父 The Godfather#9.3
+龙猫 となりのトトロ#9.2
+当幸福来敲门 The Pursuit of Happyness#9.1
+怦然心动 Flipped#9.1
+触不可及 Intouchables#9.2
+name#score
+泰坦尼克号 Titanic#9.4
